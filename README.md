@@ -50,13 +50,13 @@ class Vishnu(Person):
         self.name     = "Vishnu Ayure"
         self.age      = "20"
         self.location = "Mumbai, India 🌊"
-        self.goal     = "SDE-1 @ Indian Product Company 🎯"
+        self.goal     = "Data Scientist 🎯"
         self.gym      = True  # always, no exceptions
 
     def languages(self):
         return {
             "human"       : ["Hindi", "Marathi", "English"],
-            "programming" : ["Python", "Java", "JavaScript", "HTML", "CSS"]
+            "programming" : ["Python", "SQL"]
         }
 
     def currently(self):
