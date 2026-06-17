@@ -17,8 +17,8 @@
 <table width="85%" align="center">
 <tr>
 <td align="center">
-<a href="https://github.com/vishnuayure">
-<strong>Check my Projects</strong>
+<a href="https://leetcode.com/u/vishnuayure999/">
+<strong>Check my Leetcode</strong>
 </a>
 <br/><br/>
 <img height="200" 
